@@ -7,6 +7,24 @@ I’m Sumit Desai, a professional Software Developer with 5+ years of experience
 - Ensuring high-quality code with tools like **SonarQube**, **JUnit**, and **Mockito**.
 - Cloud computing with **AWS** and setting up robust **CI/CD pipelines**.
 
+![Profile Views](https://komarev.com/ghpvc/?username=iamsmt555&color=blue&style=flat-square)
+
+---
+
+### 🚀 Skills & Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 📚 Certifications
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Scrum Skills](https://img.shields.io/badge/Professional%20Scrum%20Skills-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+
+---
+
 ### 👀 I’m interested in...
 - Designing **scalable backend systems** that solve real-world problems.
 - Exploring new technologies like **AI integrations** in microservices.
