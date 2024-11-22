@@ -37,6 +37,8 @@ I once reduced API incidents by **40%** by implementing **intelligent rate limit
 ### 📊 GitHub Stats
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsmt555&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmt555&layout=compact&theme=dark)
+
 ---
 
 <!---
