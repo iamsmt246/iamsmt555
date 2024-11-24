@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @iamsmt555
+# 👋 Hi, I’m @iamsmt246
 
 ### 👨‍💻 About Me
 I’m Sumit Desai, a professional Software Developer with 5+ years of experience in **enterprise software development**. My expertise lies in:
@@ -7,7 +7,7 @@ I’m Sumit Desai, a professional Software Developer with 5+ years of experience
 - Ensuring high-quality code with tools like **SonarQube**, **JUnit**, and **Mockito**.
 - Cloud computing with **AWS** and setting up robust **CI/CD pipelines**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamsmt555&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=iamsmt246&color=blue&style=flat-square)
 
 ---
 
@@ -53,13 +53,13 @@ I once reduced API incidents by **40%** by implementing **intelligent rate limit
 ---
 
 ### 📊 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsmt555&show_icons=true&theme=dark)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsmt246&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmt555&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmt246&layout=compact&theme=dark)
 
 ---
 
 <!---
-iamsmt555/iamsmt555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iamsmt246/iamsmt246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
